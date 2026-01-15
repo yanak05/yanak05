@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Yana! 👋
 
-<!--
-**yanak05/yanak05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Data Science & AI student at Florida International University (FIU) with a strong interest in applying data-driven and AI-based solutions to real-world problems, particularly in healthcare.
+🔍 My interests include machine learning, data analysis, and responsible AI.
 
-Here are some ideas to get you started:
+## Technical Skills
+- **Languages:** Java, Python, HTML, JavaScript, CSS
+- **Libraries & Frameworks:** PyCharm, IntelliJ, pandas, NumPy, Matplotlib, Plotly, Streamlit,       React
+- **Certifications:** WordPress, Microsoft Office (Word, PowerPoint, Outlook), Adobe Creative        (Illustrator, Photoshop)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **AI-Assisted Radiology Report Analysis:** Built an AI-powered dashboard to analyze radiology      reports and identify critical findings using LLMs and structured data pipelines.
+- **AI-Powered Smart Home System:** Developed an AI-powered smart home system using multi-level      inheritance, encapsulation, and polymorphism.
+
+## Current Goals
+- Deepen hands-on experience in machine learning and applied AI.
+- Build a strong portfolio of AI-related projects.
+- Secure internships or research opportunities in the DS/AI field.
+
+## Connect
+- LinkedIn: www.linkedin.com/in/yana-kostenko 
